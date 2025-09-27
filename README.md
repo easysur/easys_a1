@@ -1,7 +1,11 @@
 ﻿# easys_a1
 Easys is an open source underwater robot. This repository contains the hardware and ROS 2 software needed to control the platform.
 
-[-> Document Page](https://hrjp.notion.site/Easys-A1-Document-211281df162280af8de3f84531e12f15)
+- [Document Page](https://hrjp.notion.site/Easys-A1-Document-211281df162280af8de3f84531e12f15)
+- [Youtube](https://youtu.be/P_NymIDhylo?si=fD-pTZcAEY2Eqsvj)
+  
+![GUhMwIQagAA75Zd](https://github.com/user-attachments/assets/ea934b0e-0b0d-4af6-9807-56550f00a80b)
+
 
 ## Software
 ### Target Environment
