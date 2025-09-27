@@ -12,10 +12,11 @@ Easys is an open source underwater robot. This repository contains the hardware 
 - Raspberry Pi 4 (4 GB RAM or higher) as the onboard computer
 - Ubuntu 22.04
 - ROS 2 Humble
+
 If you are using Docker, the scripts under `setup_env/` provide build and run helpers.
 
 ### Install dependency packages (rasberry pi)
-- [ms5837_bar_ros](git clone https://github.com/tasada038/ms5837_bar_ros)
+- [ms5837_bar_ros](https://github.com/tasada038/ms5837_bar_ros)
 - [bno055](https://github.com/flynneva/bno055)
 
 ### Install dependency packages (remote PC)
